@@ -1,5 +1,3 @@
-## Available for contract work
-
 Full-stack developer with more than 15 years of experience, backend, frontend, stream processing, complex domains. Currently working as an independent consultant in Finland, contact me at artem.yarulin@kapteko.com if you have questions related to contract work 
 
 - LinkedIn: [https://www.linkedin.com/in/artemyarulin/](https://www.linkedin.com/in/artemyarulin/)
